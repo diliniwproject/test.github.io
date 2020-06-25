@@ -1,0 +1,11 @@
+/*Creating style for heading*/
+div{
+height:75px;
+background-color:Blue;
+}
+h1{
+line-height:2;
+text-align:center;
+font-size:40px;
+color:White;
+}	 

@@ -1,0 +1,22 @@
+/* Creating Menu*/ 
+ul{
+ margin: 0px; width: 100%; 
+} 
+ul li {
+ display:block; 
+float:left; 
+width:320px; 
+margin-left:0px;
+ font-size:20px;
+ }
+ul li a { 
+display:block;
+ line-height:49px; 
+text-decoration:none; 
+text-align:center; 
+background-color:#fff; 
+color:#009; 
+} 
+ul li a:hover {
+ background-color:#009; 
+  color:#fff;}
